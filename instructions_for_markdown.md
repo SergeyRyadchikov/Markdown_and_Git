@@ -59,6 +59,7 @@ ___
 
 или 
 
+![yellow_duck](YellowDuck.jpg)
 
 
 ## Списки
