@@ -87,4 +87,16 @@ Git необхоим, чтобы:
 
 *git diff* - показывает разницу между текущим состоянием и последним сохраненным;
 
+*git branch* - выводит список веток в репозитории;
+
+*git branch "new_branch_name"* - создать новую ветку с именем "new_branch_name";
+
+*git branch -d "branch_to_delete"* - удалить ветку с именем "branch_to_delete";
+
+*git checkout "branch_name"* - переключение на ветку с именем "branch_name";
+
+*git merge "branch_name"* - слияние ветки "branch_name" с текущей веткой;
+
+*git log --graph* - выводит список коммитов в виде красивого графа/дерева;
+
 
